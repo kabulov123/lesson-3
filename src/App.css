@@ -1,0 +1,26 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: rgba(38, 9, 172, 0.986);
+
+}
+.tasbeh{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top:200px ;
+ }
+ button{
+  width: 40px;
+  height: 40px;
+  margin: 20px 0;
+  border: none;
+  border-radius: 5px;
+  background-color: #FFFFFF;
+  font-size: 30px;
+ }
+ h1{
+  color: #FFFFFF;
+  font-family: cursive;
+ }
